@@ -10,7 +10,7 @@
  
 </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=500&size=24&pause=1000&color=005358&center=true&vCenter=true&width=600&lines=Hey!+it's+Sawaira..!;Aspiring+Data+Scientist+%7C+Data+Analyst;Numbers+speak,+I+translate!;Passion+for+growth+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=500&size=24&pause=1000&color=005358&center=true&vCenter=true&width=600&lines=Hey!+it's+Sawaira..!;Aspiring+Data+Scientist+%7C+Data+Analyst;Numbers+speak,+I+translate!;Passion+for+growth.." alt="Typing SVG" />
 
 
 
