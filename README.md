@@ -5,7 +5,6 @@
 <h1>
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <p align="right"><img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVveWYwbzYzYWxhZmYycmhrOWIwZ3phbzV3YmgxcW1rbTNlczJjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2JguBw4fBXXVpm/giphy.webp](https://lottiefiles.com/animation/processing-8120674)(https://lottiefiles.com/animation/processing-8120674)" width="100px"/> </p>
  
 </h1>
 
@@ -57,9 +56,6 @@
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
 
 <br>
  
