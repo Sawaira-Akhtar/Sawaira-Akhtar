@@ -41,26 +41,13 @@
  ## Recent Work 💼
 
  <a href="https://github.com/Sawaira-Akhtar/Housing Price Predictive Modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=Housing Price Predictive Modeling&theme=vision-friendly-dark" />
-</a>
-
- <a href="https://github.com/Sawaira-Akhtar/US Domestic Flight Reliability Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=data-analysis-projects&theme=vision-friendly-dark" />
 </a>
 
-<a href="https://github.com/Sawaira-Akhtar/Financial Data Visualization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=data-analysis-projects&theme=vision-friendly-dark" />
-</a>
-
-<a href="https://github.com/Sawaira-Akhtar/Fleet Vehicle Inventory Analysis Part 2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=data-analysis-projects&theme=vision-friendly-dark" />
-</a>
 <a href="https://github.com/Sawaira-Akhtar/IBM-Capstone-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=IBM-Capstone-Project&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/Sawaira-Akhtar/Car Sales By Model & Profit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=data-analysis-projects&theme=vision-friendly-dark" />
-</a>
+
 
 
 
