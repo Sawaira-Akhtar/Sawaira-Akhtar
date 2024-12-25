@@ -1,12 +1,11 @@
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawaira-akhtar&label=Profile%20views&color=005358&style=flat"
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawaira-akhtar&label=Profile%20views&color=005358&style=flat"
     alt="Sawaira-akhtar" /> 
   </p>
   
 <h1>
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <p align="right"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVveWYwbzYzYWxhZmYycmhrOWIwZ3phbzV3YmgxcW1rbTNlczJjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2JguBw4fBXXVpm/giphy.webp" width="100px"/> </p>
  
 </h1>
 
@@ -61,6 +60,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
- 
+
 <br>
  
