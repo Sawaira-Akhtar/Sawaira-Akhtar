@@ -16,7 +16,7 @@
 
 
 - 🎓 Certified **Data Analyst**. Having recently completed my IBM Data Analyst Professional Certificate and a degree in Economics, Political Science & Education.
-- 🔭 I’m now preparing to pursue a **Master’s in Data Science**! 🌟
+- 🔭 I’m now preparing to pursue a **Master’s in Data Science**! 
 - ⚡ **Fun Facts About Me:**  Always curled up with a good book, Early bird with a passion for growth, and Cat lover at heart.
 - 📩 How to reach me : <a href="https://www.linkedin.com/in/sawaira-akhtar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -41,7 +41,7 @@
  ## Recent Work 💼
 
  <a href="https://github.com/Sawaira-Akhtar/Housing Price Predictive Modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=data-analysis-projects&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=Housing Price Predictive Modeling&theme=vision-friendly-dark" />
 </a>
 
  <a href="https://github.com/Sawaira-Akhtar/US Domestic Flight Reliability Dashboard">
