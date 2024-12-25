@@ -1,6 +1,6 @@
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawaira-akhtar&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawaira-akhtar&label=Profile%20views&color=005358&style=flat"
     alt="Sawaira-akhtar" /> 
   </p>
   
@@ -10,8 +10,9 @@
  
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=97D2EC&size=25&center=false&lines=Hey!+it's+Sawaira...;Data+Science+Enthusiast...;Tech+Enthusiast"/>
-<img align="left" width="150" height="150" src="https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=500&size=24&pause=1000&color=005358&center=true&vCenter=true&width=600&lines=Hey!+it's+Sawaira..!;Aspiring+Data+Scientist+%7C+Data+Analyst;Numbers+speak,+I+translate!;Passion+for+growth+%F0%9F%93%88" alt="Typing SVG" />
+
+
 
 
 - 🎓 Certified **Data Analyst**. Having recently completed my IBM Data Analyst Professional Certificate and a degree in Economics, Political Science & Education.
