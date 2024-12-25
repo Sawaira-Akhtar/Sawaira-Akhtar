@@ -14,9 +14,10 @@
 <img align="left" width="150" height="150" src="https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif"> 
 
 
-- 🔭 I'm a Undegraduated Student of Computer Science
-- ⚡ Interested in Data Science,Machine Learning, Data Analytics and Business Inteligence
-- 📩 How to recah me : <a href="https://www.linkedin.com/in/richardo-damarjanan/">
+- 🎓 Certified **Data Analyst**. Having recently completed my IBM Data Analyst Professional Certificate and a degree in Economics, Political Science & Education.
+- 🔭 I’m now preparing to pursue a **Master’s in Data Science**! 🌟
+- ⚡ **Fun Facts About Me:**  Always curled up with a good book, Early bird with a passion for growth, and Cat lover at heart.
+- 📩 How to reach me : <a href="https://www.linkedin.com/in/sawaira-akhtar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
