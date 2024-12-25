@@ -38,7 +38,7 @@
 
  ## Recent Work 💼
 
- <a href="https://github.com/Sawaira-Akhtar/Housing Price Predictive Modeling">
+ <a href="https://github.com/Sawaira-Akhtar/Data-analysis-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sawaira-Akhtar&repo=data-analysis-projects&theme=vision-friendly-dark" />
 </a>
 
